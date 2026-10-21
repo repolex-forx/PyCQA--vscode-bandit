@@ -1,0 +1,11 @@
+{
+  "org": "PyCQA",
+  "repo": "vscode-bandit",
+  "versions": [
+    {
+      "commit": "d3210e1244d2c0d20ff63dc283f4adff8912c727",
+      "tag": "",
+      "parsed_at": "2026-10-21T02:37:55.787961+00:00"
+    }
+  ]
+}
