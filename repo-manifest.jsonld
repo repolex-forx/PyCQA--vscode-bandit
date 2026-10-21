@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/vscode-bandit/commit/d3210e1244d2c0d20ff63dc283f4adff8912c727",
       "git:hexsha": "d3210e1244d2c0d20ff63dc283f4adff8912c727",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PyCQA/vscode-bandit/commit/2f31e1a6bb68ea917987b42d9d607042ce5fff3f",
